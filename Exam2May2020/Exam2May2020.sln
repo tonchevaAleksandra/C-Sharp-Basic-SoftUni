@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoneyWinterReserve", "HoneyWinterReserve\HoneyWinterReserve.csproj", "{58FE260F-5D04-4B02-A4D2-1D9F9332BBC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honeycombs", "Honeycombs\Honeycombs.csproj", "{CADD0B4C-E90D-4EE2-8990-B53903EBE77F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeehiveRole", "BeehiveRole\BeehiveRole.csproj", "{CE6F67E9-042E-45E5-9633-3F4BF9F89A01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoneyHarvest", "HoneyHarvest\HoneyHarvest.csproj", "{D3CC6872-2757-4A03-92AD-12F0877BE370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeehivePopulation", "BeehivePopulation\BeehivePopulation.csproj", "{052B5E71-25A2-4D8C-AFDD-3DD31C47F04A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeehiveDefense", "BeehiveDefense\BeehiveDefense.csproj", "{F33E353A-E776-4D63-9E25-E5728FC77B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoneyWinterReserves", "HoneyWinterReserves\HoneyWinterReserves.csproj", "{0606024F-E320-4253-AFE9-4ED9658275D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FE260F-5D04-4B02-A4D2-1D9F9332BBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FE260F-5D04-4B02-A4D2-1D9F9332BBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FE260F-5D04-4B02-A4D2-1D9F9332BBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FE260F-5D04-4B02-A4D2-1D9F9332BBC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADD0B4C-E90D-4EE2-8990-B53903EBE77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADD0B4C-E90D-4EE2-8990-B53903EBE77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADD0B4C-E90D-4EE2-8990-B53903EBE77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADD0B4C-E90D-4EE2-8990-B53903EBE77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6F67E9-042E-45E5-9633-3F4BF9F89A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6F67E9-042E-45E5-9633-3F4BF9F89A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6F67E9-042E-45E5-9633-3F4BF9F89A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6F67E9-042E-45E5-9633-3F4BF9F89A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CC6872-2757-4A03-92AD-12F0877BE370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CC6872-2757-4A03-92AD-12F0877BE370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CC6872-2757-4A03-92AD-12F0877BE370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CC6872-2757-4A03-92AD-12F0877BE370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{052B5E71-25A2-4D8C-AFDD-3DD31C47F04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052B5E71-25A2-4D8C-AFDD-3DD31C47F04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052B5E71-25A2-4D8C-AFDD-3DD31C47F04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052B5E71-25A2-4D8C-AFDD-3DD31C47F04A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F33E353A-E776-4D63-9E25-E5728FC77B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33E353A-E776-4D63-9E25-E5728FC77B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33E353A-E776-4D63-9E25-E5728FC77B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33E353A-E776-4D63-9E25-E5728FC77B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0606024F-E320-4253-AFE9-4ED9658275D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0606024F-E320-4253-AFE9-4ED9658275D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0606024F-E320-4253-AFE9-4ED9658275D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0606024F-E320-4253-AFE9-4ED9658275D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DDDE65A-2E48-4A41-9B26-A34357DA8EEB}
+	EndGlobalSection
+EndGlobal
