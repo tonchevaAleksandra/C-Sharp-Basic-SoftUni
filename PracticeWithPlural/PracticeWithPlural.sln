@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaysOfWeekArray", "DaysOfWeekArray\DaysOfWeekArray.csproj", "{0116A204-F2C1-4C9F-8E2D-66FC0353FD12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeBook", "Grades\GradeBook.csproj", "{9DE3BA51-A86D-42E6-A628-3A4465805DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0116A204-F2C1-4C9F-8E2D-66FC0353FD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0116A204-F2C1-4C9F-8E2D-66FC0353FD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0116A204-F2C1-4C9F-8E2D-66FC0353FD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0116A204-F2C1-4C9F-8E2D-66FC0353FD12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE3BA51-A86D-42E6-A628-3A4465805DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE3BA51-A86D-42E6-A628-3A4465805DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE3BA51-A86D-42E6-A628-3A4465805DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE3BA51-A86D-42E6-A628-3A4465805DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B4785A1-D9EA-4472-B2F9-9A2C6A489358}
+	EndGlobalSection
+EndGlobal
